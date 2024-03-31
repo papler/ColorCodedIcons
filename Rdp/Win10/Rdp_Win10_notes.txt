@@ -1,0 +1,3 @@
+Hue offsets from the original are:
+in the negative: -22, -52, .. -172
+in the positive: 8, 38, ... 158
